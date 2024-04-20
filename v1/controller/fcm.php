@@ -40,7 +40,7 @@
 
 
 		$url     = "https://fcm.googleapis.com/fcm/send";
-		$apiKey  = "AAAAItlTwDk:APA91bFxTcFlkHKLrAmzHPzMGAYRR47kIg6K-uwFK9bJlg0zkvhgEuIsYFeg0WLuovct-oQHChlAXDzbMP8YUfqUdQBVa7ACudcuhiC_9Ock838XBiJa3M93X0RBLaU8qK-jy_NbSkbZ";
+		$apiKey  = "";
 		$domain  = getDomainURL();
 		$keys    = array();
 
